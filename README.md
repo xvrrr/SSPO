@@ -1,10 +1,11 @@
 # SSPO
- Self-supervised Transformer-based Portfolio Optimizer
+Self-supervised Transformer-based Online Portfolio Optimizer
+
 # STEP1
 Run datahandler.py
 
 # STEP2
-Run train
+Run train.py
 
 # or
 
