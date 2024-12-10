@@ -1,6 +1,7 @@
 # SSPO
 Self-supervised Transformer-based Online Portfolio Optimizer
-![image](https://github.com/user-attachments/assets/37bb5108-bbed-45e4-b52a-f0d41a1caf6e)
+![图片1](https://github.com/user-attachments/assets/5b8e675d-e995-47a1-9222-573927d6f11a)
+
 
 
 # Step 1
