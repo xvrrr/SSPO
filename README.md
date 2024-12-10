@@ -9,6 +9,6 @@ Run datahandler.py
 # Step 2
 Run train.py
 
-# (Optional) Training by DDP
+# (Optional) DDP Training
 
 torchrun --nproc_per_node=2 train_ddp.py
