@@ -1,4 +1,4 @@
-# SSPO
+# SSLPO
 Self-supervised Transformer-based Online Portfolio Optimizer
 ![image](https://github.com/user-attachments/assets/935cd6fa-8e01-4048-82e3-9134bf5b796b)
 
