@@ -12,3 +12,6 @@ Run train.py
 # (Optional) DDP Training
 
 torchrun --nproc_per_node=2 train_ddp.py
+
+# Tensorboard
+tensorboard --logdir=runs/experiment0
